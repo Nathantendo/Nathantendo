@@ -5,5 +5,3 @@ I'm Nathantendo.
 I Have Always Enjoyed Technology And I am Very Excited To Learn How To Code.
 
 Welcome To My Github Profile!
-
-I am Very Excited To Get Started, And I Can't Wait To Learn!
