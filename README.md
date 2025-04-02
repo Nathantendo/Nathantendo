@@ -1,4 +1,4 @@
-Hi! 👋
+Hey! 👋
 
 I'm Nathantendo.
 
