@@ -2,6 +2,6 @@ Hey! 👋
 
 I'm Nathantendo.
 
-I Have Always Enjoyed Technology And I am Very Excited To Learn How To Code.
+Currently Working On My Simple Android Launcher App, [JoyStick](https://github.com/Nathantendo/JoyStick)
 
 Welcome To My GitHub Profile!
